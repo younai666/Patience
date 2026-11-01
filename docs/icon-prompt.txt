@@ -1,0 +1,16 @@
+Use case: stylized-concept
+Asset type: original Android launcher artwork for Patience, an offline plain-text notebook
+Primary request: Illustrate quietly keeping a thought through one metaphor: a single irregular ivory sheet carrying three bold freehand ink lines, the final line curling gently into a small open loop.
+Input images: all three attached images are style references only, never edit targets; transfer stroke behavior and layering, do not copy their objects.
+Scene/backdrop: full-bleed opaque oat #E3DACC background covering every corner; no transparency, no white border.
+Subject: one soft asymmetric ivory sheet #FAF9F5, with three simple near-black #141413 writing gestures, no literal text or letters, no pen, no hands, no other objects.
+Style/medium: Anthropic editorial illustration language; naive black ink gesture; thick, slightly uneven, rounded strokes; deliberate asymmetry; flat two-dimensional forms.
+Composition/framing: square 1:1. One central focal cluster about 65% of canvas, all essential ink within central 60% for Android circular/squircle masks, generous breathing room.
+Color palette: near-black #141413, irregular ivory #FAF9F5 carrier shape, full-frame oat #E3DACC.
+Materials/textures: clean flat color, subtle analog wobble only, no grain.
+Text: none.
+Constraints: preserve accent background behind one irregular ivory carrier shape and bold black marks on top; entire canvas opaque; readable at 48px thumbnail; original artwork.
+Avoid: transparent background, white outer canvas, black outer canvas, photorealism, 3D, gradients, shadows, glossy lighting, fine technical line art, stock-vector polish, dense detail, logo lettering, watermark, copied composition.
+
+Final targeted refinement (built-in image generation):
+Refine this original Patience launcher artwork with one targeted correction: remove all shading, lighting variation and texture. Make every oat background pixel a perfectly uniform flat #E3DACC field, the irregular sheet a uniform flat #FAF9F5 carrier, and the three strokes uniform #141413. Preserve exactly the original irregular sheet silhouette, hand-drawn thick rounded gestural stroke shapes, three-line arrangement with lower open curl, composition and generous breathing room. Entire square canvas opaque. Do not add any new details, text, symbols, borders or objects. The result must be clean flat Anthropic editorial ink artwork rather than textured paper or lit material.

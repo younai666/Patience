@@ -1,0 +1,44 @@
+[sessions]
+Use case: stylized-concept
+Asset type: original tiny editorial UI artwork for an Android plain-text writing app, one square asset only, displayed at 32dp.
+Primary request: Illustrate a small collection of THREE overlapping irregular ivory note sheets; the front sheet has TWO very thick near-black short hand-drawn horizontal strokes. A clear metaphor for opening a directory of writing sessions.
+Input images: all three are STYLE REFERENCES ONLY, not edit targets. Transfer their simple irregular carriers and thick rounded ink behavior; do not reproduce their literal objects.
+Scene/backdrop: perfectly flat full-bleed opaque oat #E3DACC covering all four corners; no transparency and no white border.
+Subject: a small collection of THREE overlapping irregular ivory note sheets; the front sheet has TWO very thick near-black short hand-drawn horizontal strokes. A clear metaphor for opening a directory of writing sessions. One focal cluster centered and occupying 75–80% of the square so it remains legible when reduced to 32dp.
+Style/medium: Anthropic editorial illustration language; naive ink gesture with thick slightly uneven rounded strokes, visible analog wobble, simplified flat forms and deliberate asymmetry. Large bold silhouette, extremely sparse detail.
+Color palette: irregular ivory #FAF9F5 carrier shape; uniform near-black #141413; one oat #E3DACC background field.
+Composition/framing: 1:1 square, close composition, generous but not excessive outer margin. The irregular ivory carrier must materially separate the symbol from the background.
+Materials/textures: absolutely uniform flat colors, NO lighting variation, NO grain, NO shaded paper, no gradients.
+Text: none.
+Constraints: preserve the two-layer system of full-frame accent behind irregular ivory carrier with bold hand-drawn marks on top; entirely opaque. This is an ORIGINAL artwork.
+Avoid: extra objects, decorative stars, hands, shadow, perspective, transparent canvas, black canvas, white outer canvas, 3D, glossy shading, photorealism, fine technical line art, geometric stock-vector polish, dense detail, logo lettering, watermark, copied reference composition.
+
+[edit]
+Use case: stylized-concept
+Asset type: original tiny editorial UI artwork for an Android plain-text writing app, one square asset only, displayed at 32dp.
+Primary request: Illustrate ONE simple thick near-black hand-drawn pencil, angled diagonally from bottom-left to top-right, resting across ONE irregular ivory carrier shape. Just a pencil with a clearly recognizable pointed nib, no text, no extra stationery.
+Input images: all three are STYLE REFERENCES ONLY, not edit targets. Transfer their simple irregular carriers and thick rounded ink behavior; do not reproduce their literal objects.
+Scene/backdrop: perfectly flat full-bleed opaque oat #E3DACC covering all four corners; no transparency and no white border.
+Subject: ONE simple thick near-black hand-drawn pencil, angled diagonally from bottom-left to top-right, resting across ONE irregular ivory carrier shape. Just a pencil with a clearly recognizable pointed nib, no text, no extra stationery. One focal cluster centered and occupying 75–80% of the square so it remains legible when reduced to 32dp.
+Style/medium: Anthropic editorial illustration language; naive ink gesture with thick slightly uneven rounded strokes, visible analog wobble, simplified flat forms and deliberate asymmetry. Large bold silhouette, extremely sparse detail.
+Color palette: irregular ivory #FAF9F5 carrier shape; uniform near-black #141413; one oat #E3DACC background field.
+Composition/framing: 1:1 square, close composition, generous but not excessive outer margin. The irregular ivory carrier must materially separate the symbol from the background.
+Materials/textures: absolutely uniform flat colors, NO lighting variation, NO grain, NO shaded paper, no gradients.
+Text: none.
+Constraints: preserve the two-layer system of full-frame accent behind irregular ivory carrier with bold hand-drawn marks on top; entirely opaque. This is an ORIGINAL artwork.
+Avoid: extra objects, decorative stars, hands, shadow, perspective, transparent canvas, black canvas, white outer canvas, 3D, glossy shading, photorealism, fine technical line art, geometric stock-vector polish, dense detail, logo lettering, watermark, copied reference composition.
+
+[delete]
+Use case: stylized-concept
+Asset type: original tiny editorial UI artwork for an Android plain-text writing app, one square asset only, displayed at 32dp.
+Primary request: Illustrate ONE bold hand-drawn small waste bin with a slightly lifted lid, large simple bin body and TWO short inner strokes. The waste bin itself MUST be RED #D94A4A as the user explicitly requested a red delete control; this red ink is the sole deliberate override of the references' black ink.
+Input images: all three are STYLE REFERENCES ONLY, not edit targets. Transfer their simple irregular carriers and thick rounded ink behavior; do not reproduce their literal objects.
+Scene/backdrop: perfectly flat full-bleed opaque coral #EBCECE covering all four corners; no transparency and no white border.
+Subject: ONE bold hand-drawn small waste bin with a slightly lifted lid, large simple bin body and TWO short inner strokes. The waste bin itself MUST be RED #D94A4A as the user explicitly requested a red delete control; this red ink is the sole deliberate override of the references' black ink. One focal cluster centered and occupying 75–80% of the square so it remains legible when reduced to 32dp.
+Style/medium: Anthropic editorial illustration language; naive ink gesture with thick slightly uneven rounded strokes, visible analog wobble, simplified flat forms and deliberate asymmetry. Large bold silhouette, extremely sparse detail.
+Color palette: irregular ivory #FAF9F5 carrier shape; uniform red #D94A4A, exclusively for the waste-bin strokes as explicitly requested; one coral #EBCECE background field.
+Composition/framing: 1:1 square, close composition, generous but not excessive outer margin. The irregular ivory carrier must materially separate the symbol from the background.
+Materials/textures: absolutely uniform flat colors, NO lighting variation, NO grain, NO shaded paper, no gradients.
+Text: none.
+Constraints: preserve the two-layer system of full-frame accent behind irregular ivory carrier with bold hand-drawn marks on top; entirely opaque. This is an ORIGINAL artwork.
+Avoid: extra objects, decorative stars, hands, shadow, perspective, transparent canvas, black canvas, white outer canvas, 3D, glossy shading, photorealism, fine technical line art, geometric stock-vector polish, dense detail, logo lettering, watermark, copied reference composition.
